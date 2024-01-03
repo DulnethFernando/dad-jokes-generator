@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background: #535cc9;
+    padding: 10px;
+}
+
+.card {
+    width: 100%;
+    max-width: 700px;
+    background: #fff;
+    margin: 100px auto 20px;
+    padding: 60px 40px 60px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px rgba(0,0,0,0.5);
+    text-align: center;
+}
+
+p {
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #5b5c5b;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 25px;
+}
+
+button {
+    border: 0;
+    outline: 0;
+    margin-top: 40px;
+    padding: 12px 30px;
+    background: #826ad9;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
